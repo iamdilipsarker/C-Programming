@@ -4,9 +4,9 @@ int main ()
 
 {
     double a, b, sum;
-
+    printf("Enter a number:");
     scanf("%lf", &a);
-
+    printf("Enter another number:");
     scanf("%lf", &b);
 
     sum = a + b;
